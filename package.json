@@ -1,5 +1,5 @@
 {
-  "name": "shop-membership",
+  "name": "shopz-membership",
   "version": "1.0.0",
   "description": "customer membership patterend after Devise",
   "main": "index.js",
